@@ -1,0 +1,9 @@
+SQLite_name,match_id,R_name
+TEXT,1,character
+TEXT,1,NA
+INTEGER,2,integer
+INTEGER,2,NA
+REAL,3,numeric
+REAL,3,integer
+REAL,3,NA
+NULL,4,NA
